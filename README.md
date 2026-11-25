@@ -5,5 +5,6 @@ Bayburt Üniversitesi Bilgisayar Programcılığı öğrencisiyim.
 Şu an öğreniyorum: Git ve GitHub
 Hedefim: yazılım geliştirici olmak
 İletişim: sudeakgunn00@gmail.com
+
 Projelerim
 Proje: Windows Console App Hello World
